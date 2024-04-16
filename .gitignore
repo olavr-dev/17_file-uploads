@@ -173,6 +173,9 @@ dist
 # Database Files
 data/*
 
+# Images
+images/*
+
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
